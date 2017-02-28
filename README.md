@@ -7,3 +7,5 @@ ZiYaoTech
 Windows
 Linux(x86,64,armhf)
 Mac
+#外观
+![串口助手](https://github.com/ziyaofeng/serialPortHelper/raw/master/layout.png)
