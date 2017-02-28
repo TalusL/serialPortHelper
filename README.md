@@ -1,6 +1,7 @@
 # serialPortHelper
 #描述:
-使用JavaFX做的GUI，对开源库串口JAVA库JSSC的进行封装。
+使用JavaFX做的GUI，对开源库串口JAVA库JSSC(java-simple-serial-connector)的进行封装。                 
+[java-simple-serial-connector](https://github.com/scream3r/java-simple-serial-connector)
 #作者:
 ZiYaoTech
 #环境
