@@ -1,8 +1,10 @@
 # serialPortHelper
 #描述:
-对开源库JSSC的GUI封装
+使用JavaFX做的GUI，对开源库串口JAVA库JSSC的进行封装。
 #作者:
 ZiYaoTech
+#环境
+JDK 1.8+ 
 #支持平台:
 Windows
 Linux(x86,64,armhf)
